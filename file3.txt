@@ -1,1 +1,2 @@
 This tutorial getting confusing tho. 
+I'm changing that line to get a merge conflict
